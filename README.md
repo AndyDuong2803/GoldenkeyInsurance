@@ -1,28 +1,19 @@
-# LifeSure – Free Bootstrap 5 Business Website Template
-#### Preview
+# Goldenkey Insurance
 
- - [Demo](https://themewagon.github.io/LifeSure/)
+Static Bootstrap website for Goldenkey Insurance.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/lifesure/)
- 
- 
-## Getting Started
+## Pages
 
-Clone from GitHub 
-```
-https://github.com/themewagon/LifeSure.git
-```
+- `index.html`
+- `about.html`
+- `service.html`
+- `contact.html`
+- `404.html`
 
-## Author
+The old Blog and Pages routes were removed. The `404.html` page is kept for hosting platforms that automatically serve it for unknown URLs.
 
-Design and code are completely written by HTML Codex's design and development team.  
+## Theme
 
+Brand colors are centralized in `css/style.css` under `Goldenkey Theme` and mirrored in `scss/bootstrap.scss`.
 
-## License
-
- - Design and Code is Copyright &copy; [HTML Codex](https://htmlcodex.com/)
- - Licensed under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
-
-
+Original template attribution remains in `READ-ME.txt` and `LICENSE.txt`.
