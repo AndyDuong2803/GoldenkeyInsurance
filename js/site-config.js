@@ -16,7 +16,7 @@ window.GK_SITE_CONFIG = {
         publicKey: "Nig5l1zesY5YWIQcD",
         serviceId: "s_goldenkey_insurance_1",
         templateId: "t_goldenkey_insurance_1",
-        toEmail: "khangss2803@gmail.com"
+        toEmail: "Pd.insuranceforlife@gmail.com"
     },
     recaptcha: {
         siteKey: "6LcpQAUtAAAAALWsTo876fO6wSp1aKHXZKj7Du2W"
